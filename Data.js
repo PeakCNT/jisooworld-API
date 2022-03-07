@@ -57,7 +57,7 @@ exports.data = [
   },
   {
     id: 6,
-    img: "https://res.cloudinary.com/dlqpq9wxh/image/upload/v1645700011/Jisooworld/Screencard/r3d3b69amjLG92hgu0P-o_qkdj22.jpg",
+    img: "https://res.cloudinary.com/dlqpq9wxh/image/upload/v1645700011/Jisooworld/Screencard/snowdrop1.jpg",
     title: "Actress Jisoo",
     content:
       "Snowdrop (Korean: 설강화; Hanja: 雪降花; RR: Seolganghwa) is a South Korean television series starring Jung Hae-in, Jisoo, Yoo In-na, Jang Seung-jo, Yoon Se-ah, Kim Hye-yoon, and Jung Yoo-jin. It aired on JTBC from December 18, 2021, to January 30, 2022, every Saturday and Sunday at 22:30 (KST) for 16 episodes. It is also available for streaming on Disney+ in the US and under the Star hub in selected international regions.",
